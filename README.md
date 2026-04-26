@@ -53,14 +53,6 @@ Data augmentation for better generalization
 OpenCV-based image prediction
 
 
-🚀 Future Work
-
-
-Improve accuracy using Transfer Learning (MobileNet)
-
-
-Deploy using Streamlit
-
 
 👩‍💻 Author
 Anushka Pal
